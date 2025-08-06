@@ -1,0 +1,7 @@
+# ETest Parameter Column Names
+# Generated from filtered_ETestData.txt
+# These are all columns that appear after the PROGRAM column
+
+PCD5V_RDSON
+VTE_P10L05WONT
+X5PLDG2_HS_RDSON
